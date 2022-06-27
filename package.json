@@ -1,0 +1,12 @@
+{
+  "name": "mookuauhau",
+  "version": "1.0.0",
+  "description": "Mookuauhau GraphQL",
+  "main": "index.js",
+  "author": "Andrew Taeoalii",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
